@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 842a9994685614758875c52bf9529d92
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Astro__Chest
+    100002: Astro__Head
+    100004: Astro__Head_Tip
+    100006: Astro__L.Arm
+    100008: Astro__L.Arm_Roll_1
+    100010: Astro__L.Arm_Roll_2
+    100012: Astro__L.Foot
+    100014: Astro__L.Foot_Tip
+    100016: Astro__L.Foot_Toes
+    100018: Astro__L.ForeArm
+    100020: Astro__L.ForeArm_Roll_1
+    100022: Astro__L.ForeArm_Roll_2
+    100024: Astro__L.Hand
+    100026: Astro__L.Hand_End
+    100028: Astro__L.Leg
+    100030: Astro__L.Leg_Roll_1
+    100032: Astro__L.Middle_1
+    100034: Astro__L.Middle_2
+    100036: Astro__L.Middle_3
+    100038: Astro__L.Middle_Tip
+    100040: Astro__L.Shoulder
+    100042: Astro__L.Thumb_1
+    100044: Astro__L.Thumb_2
+    100046: Astro__L.Thumb_3
+    100048: Astro__L.Thumb_Tip
+    100050: Astro__L.UpLeg
+    100052: Astro__L.UpLeg_Roll_1
+    100054: Astro__L.UpLeg_Roll_2
+    100056: Astro__Neck
+    100058: Astro__R.Arm
+    100060: Astro__R.Arm_Roll_1
+    100062: Astro__R.Arm_Roll_2
+    100064: Astro__R.Foot
+    100066: Astro__R.Foot_Tip
+    100068: Astro__R.Foot_Toes
+    100070: Astro__R.ForeArm
+    100072: Astro__R.ForeArm_Roll_1
+    100074: Astro__R.ForeArm_Roll_2
+    100076: Astro__R.Hand
+    100078: Astro__R.Hand_End
+    100080: Astro__R.Leg
+    100082: Astro__R.Leg_Roll_1
+    100084: Astro__R.Middle_1
+    100086: Astro__R.Middle_2
+    100088: Astro__R.Middle_3
+    100090: Astro__R.Middle_Tip
+    100092: Astro__R.Shoulder
+    100094: Astro__R.Thumb_1
+    100096: Astro__R.Thumb_2
+    100098: Astro__R.Thumb_3
+    100100: Astro__R.Thumb_Tip
+    100102: Astro__R.UpLeg
+    100104: Astro__R.UpLeg_Roll_1
+    100106: Astro__R.UpLeg_Roll_2
+    100108: Astro__Root
+    100110: Astro__Spine_1
+    100112: Astro__Spine_2
+    100114: Astro__Spine_3
+    100116: Astro__Spine_Tip
+    100118: //RootNode
+    100120: Backpack
+    100122: Belt
+    100124: Body
+    100126: helmet
+    400000: Astro__Chest
+    400002: Astro__Head
+    400004: Astro__Head_Tip
+    400006: Astro__L.Arm
+    400008: Astro__L.Arm_Roll_1
+    400010: Astro__L.Arm_Roll_2
+    400012: Astro__L.Foot
+    400014: Astro__L.Foot_Tip
+    400016: Astro__L.Foot_Toes
+    400018: Astro__L.ForeArm
+    400020: Astro__L.ForeArm_Roll_1
+    400022: Astro__L.ForeArm_Roll_2
+    400024: Astro__L.Hand
+    400026: Astro__L.Hand_End
+    400028: Astro__L.Leg
+    400030: Astro__L.Leg_Roll_1
+    400032: Astro__L.Middle_1
+    400034: Astro__L.Middle_2
+    400036: Astro__L.Middle_3
+    400038: Astro__L.Middle_Tip
+    400040: Astro__L.Shoulder
+    400042: Astro__L.Thumb_1
+    400044: Astro__L.Thumb_2
+    400046: Astro__L.Thumb_3
+    400048: Astro__L.Thumb_Tip
+    400050: Astro__L.UpLeg
+    400052: Astro__L.UpLeg_Roll_1
+    400054: Astro__L.UpLeg_Roll_2
+    400056: Astro__Neck
+    400058: Astro__R.Arm
+    400060: Astro__R.Arm_Roll_1
+    400062: Astro__R.Arm_Roll_2
+    400064: Astro__R.Foot
+    400066: Astro__R.Foot_Tip
+    400068: Astro__R.Foot_Toes
+    400070: Astro__R.ForeArm
+    400072: Astro__R.ForeArm_Roll_1
+    400074: Astro__R.ForeArm_Roll_2
+    400076: Astro__R.Hand
+    400078: Astro__R.Hand_End
+    400080: Astro__R.Leg
+    400082: Astro__R.Leg_Roll_1
+    400084: Astro__R.Middle_1
+    400086: Astro__R.Middle_2
+    400088: Astro__R.Middle_3
+    400090: Astro__R.Middle_Tip
+    400092: Astro__R.Shoulder
+    400094: Astro__R.Thumb_1
+    400096: Astro__R.Thumb_2
+    400098: Astro__R.Thumb_3
+    400100: Astro__R.Thumb_Tip
+    400102: Astro__R.UpLeg
+    400104: Astro__R.UpLeg_Roll_1
+    400106: Astro__R.UpLeg_Roll_2
+    400108: Astro__Root
+    400110: Astro__Spine_1
+    400112: Astro__Spine_2
+    400114: Astro__Spine_3
+    400116: Astro__Spine_Tip
+    400118: //RootNode
+    400120: Backpack
+    400122: Belt
+    400124: Body
+    400126: helmet
+    2300000: Backpack
+    2300002: Belt
+    2300004: helmet
+    3300000: Backpack
+    3300002: Belt
+    3300004: helmet
+    4300000: helmet
+    4300002: Belt
+    4300004: Backpack
+    4300006: Body
+    7400000: Push
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Push
+      takeName: Take 001
+      firstFrame: 96
+      lastFrame: 108
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Astro__Root
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1/Astro__L.UpLeg_Roll_2
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1/Astro__L.UpLeg_Roll_2/Astro__L.Leg
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1/Astro__L.UpLeg_Roll_2/Astro__L.Leg/Astro__L.Leg_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1/Astro__L.UpLeg_Roll_2/Astro__L.Leg/Astro__L.Leg_Roll_1/Astro__L.Foot
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1/Astro__L.UpLeg_Roll_2/Astro__L.Leg/Astro__L.Leg_Roll_1/Astro__L.Foot/Astro__L.Foot_Toes
+        weight: 1
+      - path: Astro__Root/Astro__L.UpLeg/Astro__L.UpLeg_Roll_1/Astro__L.UpLeg_Roll_2/Astro__L.Leg/Astro__L.Leg_Roll_1/Astro__L.Foot/Astro__L.Foot_Toes/Astro__L.Foot_Tip
+        weight: 0
+      - path: Astro__Root/Astro__R.UpLeg
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1/Astro__R.UpLeg_Roll_2
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1/Astro__R.UpLeg_Roll_2/Astro__R.Leg
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1/Astro__R.UpLeg_Roll_2/Astro__R.Leg/Astro__R.Leg_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1/Astro__R.UpLeg_Roll_2/Astro__R.Leg/Astro__R.Leg_Roll_1/Astro__R.Foot
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1/Astro__R.UpLeg_Roll_2/Astro__R.Leg/Astro__R.Leg_Roll_1/Astro__R.Foot/Astro__R.Foot_Toes
+        weight: 1
+      - path: Astro__Root/Astro__R.UpLeg/Astro__R.UpLeg_Roll_1/Astro__R.UpLeg_Roll_2/Astro__R.Leg/Astro__R.Leg_Roll_1/Astro__R.Foot/Astro__R.Foot_Toes/Astro__R.Foot_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Hand_End
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Middle_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Middle_1/Astro__L.Middle_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Middle_1/Astro__L.Middle_2/Astro__L.Middle_3
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Middle_1/Astro__L.Middle_2/Astro__L.Middle_3/Astro__L.Middle_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Thumb_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Thumb_1/Astro__L.Thumb_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Thumb_1/Astro__L.Thumb_2/Astro__L.Thumb_3
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__L.Shoulder/Astro__L.Arm/Astro__L.Arm_Roll_1/Astro__L.Arm_Roll_2/Astro__L.ForeArm/Astro__L.ForeArm_Roll_1/Astro__L.ForeArm_Roll_2/Astro__L.Hand/Astro__L.Thumb_1/Astro__L.Thumb_2/Astro__L.Thumb_3/Astro__L.Thumb_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__Neck
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__Neck/Astro__Head
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__Neck/Astro__Head/Astro__Head_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__Neck/Astro__Head/helmet
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Hand_End
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Middle_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Middle_1/Astro__R.Middle_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Middle_1/Astro__R.Middle_2/Astro__R.Middle_3
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Middle_1/Astro__R.Middle_2/Astro__R.Middle_3/Astro__R.Middle_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Thumb_1
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Thumb_1/Astro__R.Thumb_2
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Thumb_1/Astro__R.Thumb_2/Astro__R.Thumb_3
+        weight: 1
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__R.Shoulder/Astro__R.Arm/Astro__R.Arm_Roll_1/Astro__R.Arm_Roll_2/Astro__R.ForeArm/Astro__R.ForeArm_Roll_1/Astro__R.ForeArm_Roll_2/Astro__R.Hand/Astro__R.Thumb_1/Astro__R.Thumb_2/Astro__R.Thumb_3/Astro__R.Thumb_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Astro__Spine_3/Astro__Chest/Astro__Spine_Tip
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Astro__Spine_2/Belt
+        weight: 0
+      - path: Astro__Root/Astro__Spine_1/Backpack
+        weight: 0
+      - path: Body
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Astro__Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.UpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.UpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.UpLeg_Roll_2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.UpLeg_Roll_2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Leg_Roll_1
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Leg_Roll_1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__Spine_1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__Spine_3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Arm_Roll_1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Arm_Roll_1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.ForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.ForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.ForeArm_Roll_2
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.ForeArm_Roll_2
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Foot_Toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Foot_Toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Thumb_1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Thumb_2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Thumb_3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Middle_1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Middle_2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__L.Middle_3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Thumb_1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Thumb_2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Thumb_3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Middle_1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Middle_2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Astro__R.Middle_3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: astroRerig5Push(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Body
+      position: {x: 2.77555756e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__Root
+      position: {x: .0500000268, y: .717999995, z: .00100000005}
+      rotation: {x: -0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__Spine_1
+      position: {x: -0, y: .174000055, z: 0}
+      rotation: {x: -.720398307, y: -2.89458729e-15, z: -3.07068967e-15, w: .69356066}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Backpack
+      position: {x: .109999999, y: -.0102837011, z: -.915049314}
+      rotation: {x: .720398307, y: 2.88587619e-15, z: 2.88587619e-15, w: .6935606}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__Spine_2
+      position: {x: -0, y: 0, z: .158113778}
+      rotation: {x: -.012669174, y: -4.6927101e-17, z: -2.37825655e-18, w: .999919772}
+      scale: {x: 1, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: Belt
+      position: {x: -.049999997, y: .0114136776, z: -1.06541145}
+      rotation: {x: .729127347, y: 2.88427657e-15, z: 2.88427657e-15, w: .684378088}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__Spine_3
+      position: {x: -0, y: 0, z: .142285019}
+      rotation: {x: -.0104600778, y: 9.81691995e-17, z: 7.25462461e-18, w: .999945283}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Astro__Chest
+      position: {x: -0, y: 0, z: .154547691}
+      rotation: {x: -.0184397977, y: -1.57922715e-16, z: -1.6270019e-17, w: .999830008}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__Spine_Tip
+      position: {x: 6.9388939e-18, y: 1.38777878e-17, z: .190394297}
+      rotation: {x: 0, y: 9.86076132e-32, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__R.Shoulder
+      position: {x: .467999995, y: -.0766882077, z: -.0486201234}
+      rotation: {x: .50833416, y: .455095381, z: .550001621, w: .481645912}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__R.Arm
+      position: {x: -0, y: 0, z: .104254469}
+      rotation: {x: .0154279303, y: .0765221044, z: -.702522516, w: .707367241}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Astro__R.Arm_Roll_1
+      position: {x: -0, y: 0, z: .0414499231}
+      rotation: {x: .0180624668, y: -.0108028315, z: 0, w: .999778509}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Astro__R.Arm_Roll_2
+      position: {x: -0, y: 0, z: .0414499231}
+      rotation: {x: -5.96046306e-08, y: 0, z: 5.96046306e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Astro__R.ForeArm
+      position: {x: -0, y: 0, z: .0446383841}
+      rotation: {x: .0225501936, y: -.0574024394, z: -.00892233755, w: .998056531}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Astro__R.ForeArm_Roll_1
+      position: {x: -0, y: 0, z: .0465994813}
+      rotation: {x: 0, y: 1.34110437e-07, z: -.00574663235, w: .99998349}
+      scale: {x: .999999762, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Astro__R.ForeArm_Roll_2
+      position: {x: -0, y: 0, z: .0465994813}
+      rotation: {x: 7.45057775e-08, y: -4.47034694e-08, z: 2.98023117e-08, w: 1}
+      scale: {x: .99999994, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Astro__R.Hand
+      position: {x: -0, y: 0, z: .0480115823}
+      rotation: {x: .0643740147, y: -.053902097, z: .705049396, w: .704170406}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Astro__R.Hand_End
+      position: {x: -2.77555756e-17, y: -2.22044605e-16, z: .139553115}
+      rotation: {x: 1.51788304e-17, y: -6.9388939e-18, z: -1.73472348e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__R.Thumb_1
+      position: {x: -.0547543317, y: -.0363991074, z: .111805439}
+      rotation: {x: -.281504214, y: -.335968882, z: .59739387, w: .67156595}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: Astro__R.Thumb_2
+      position: {x: -0, y: 0, z: .0661853477}
+      rotation: {x: -.0389683433, y: 1.31130207e-06, z: 1.73225985e-07, w: .999240518}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__R.Thumb_3
+      position: {x: -0, y: 0, z: .0437054522}
+      rotation: {x: .0256105568, y: .0308933593, z: -.0024060132, w: .999191642}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: Astro__R.Thumb_Tip
+      position: {x: -0, y: 1.11022302e-16, z: .0265181269}
+      rotation: {x: 6.9388939e-18, y: -6.9388939e-18, z: 4.33680869e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__R.Middle_1
+      position: {x: -.00332524301, y: -.00333220954, z: .162564099}
+      rotation: {x: .0846336707, y: .0241234489, z: .000209022211, w: .996120036}
+      scale: {x: .999999881, y: .999999702, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__R.Middle_2
+      position: {x: -0, y: 0, z: .0810187683}
+      rotation: {x: .0378462747, y: -1.56927797e-07, z: 1.86264444e-08, w: .999283612}
+      scale: {x: 1, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Astro__R.Middle_3
+      position: {x: -0, y: 0, z: .0457865372}
+      rotation: {x: .0298030749, y: -1.49011576e-08, z: -5.96046306e-08, w: .999555826}
+      scale: {x: 1.00000024, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__R.Middle_Tip
+      position: {x: -1.5959456e-16, y: 2.22044605e-16, z: .0359549411}
+      rotation: {x: 1.44949886e-17, y: 9.59202812e-41, z: -6.6174449e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__L.Shoulder
+      position: {x: -.568000019, y: -.0766882077, z: -.0486201234}
+      rotation: {x: .50833416, y: -.455095381, z: -.550001621, w: .481645912}
+      scale: {x: 1.00000024, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Astro__L.Arm
+      position: {x: -0, y: 0, z: .104254469}
+      rotation: {x: -.0154278725, y: .0765221119, z: -.702522576, w: -.707367361}
+      scale: {x: .999999881, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__L.Arm_Roll_1
+      position: {x: -0, y: 0, z: .0414499231}
+      rotation: {x: .0180625804, y: .0108027691, z: 2.98023046e-08, w: .999778509}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Astro__L.Arm_Roll_2
+      position: {x: -0, y: 0, z: .0414499231}
+      rotation: {x: -2.98023117e-08, y: 8.94069387e-08, z: 2.98023117e-08, w: 1}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Astro__L.ForeArm
+      position: {x: -0, y: 0, z: .0446383841}
+      rotation: {x: -.0225500949, y: -.0574023612, z: -.00892224442, w: -.998056531}
+      scale: {x: 1.00000012, y: .999999762, z: 1.00000036}
+      transformModified: 1
+    - name: Astro__L.ForeArm_Roll_1
+      position: {x: -0, y: 0, z: .0465994813}
+      rotation: {x: -1.49011612e-08, y: 7.4505806e-08, z: .00574672222, w: .999983549}
+      scale: {x: .999999642, y: .999999642, z: .999999642}
+      transformModified: 1
+    - name: Astro__L.ForeArm_Roll_2
+      position: {x: -0, y: 0, z: .0465994813}
+      rotation: {x: 5.96046235e-08, y: -4.47034694e-08, z: -5.96046235e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__L.Hand
+      position: {x: -0, y: 0, z: .0480115823}
+      rotation: {x: .0643739998, y: .0539020561, z: -.705049276, w: .704170406}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: Astro__L.Hand_End
+      position: {x: 1.38777878e-17, y: 0, z: .139553115}
+      rotation: {x: -2.493665e-17, y: -2.77555756e-17, z: -6.07153217e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__L.Thumb_1
+      position: {x: .0547543317, y: -.0363991074, z: .111805439}
+      rotation: {x: -.281504333, y: .335968882, z: -.59739387, w: .67156601}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__L.Thumb_2
+      position: {x: -0, y: 0, z: .0661853477}
+      rotation: {x: -.0389659442, y: 1.33365324e-06, z: 9.31322131e-09, w: .999240518}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Astro__L.Thumb_3
+      position: {x: -0, y: 0, z: .0437054522}
+      rotation: {x: .0256127995, y: -.0308974124, z: .00240571704, w: .999191523}
+      scale: {x: 1.00000024, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__L.Thumb_Tip
+      position: {x: -0, y: -1.11022302e-16, z: .0265181269}
+      rotation: {x: -3.46944695e-18, y: -6.9388939e-18, z: 4.33680869e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__L.Middle_1
+      position: {x: .00332524301, y: -.00333220954, z: .162564099}
+      rotation: {x: .0846333578, y: -.0241233651, z: -.000209234553, w: .996120036}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Astro__L.Middle_2
+      position: {x: -0, y: 0, z: .0810187683}
+      rotation: {x: .0378462337, y: -3.21306182e-08, z: 2.34693204e-07, w: .999283552}
+      scale: {x: .999999762, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Astro__L.Middle_3
+      position: {x: -0, y: 0, z: .0457865372}
+      rotation: {x: .0298031084, y: 7.45057793e-09, z: 4.47034694e-08, w: .999555886}
+      scale: {x: 1.00000036, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__L.Middle_Tip
+      position: {x: 1.73472348e-18, y: 0, z: .0357770883}
+      rotation: {x: 4.26920942e-18, y: -1.32348898e-23, z: -3.30872245e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__Neck
+      position: {x: -.049999997, y: -.0593610182, z: .206340209}
+      rotation: {x: .142635003, y: -3.2870662e-16, z: 2.07678947e-15, w: .989775419}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Astro__Head
+      position: {x: -0, y: 0, z: .145986363}
+      rotation: {x: .646374881, y: 1.90669488e-15, z: 1.04400178e-15, w: .763019919}
+      scale: {x: 1, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__Head_Tip
+      position: {x: 9.86076132e-32, y: .191000074, z: -3.46944695e-18}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helmet
+      position: {x: -.00499999989, y: -1.68599999, z: -.00999999791}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      scale: {x: .975000024, y: .975000024, z: .926835001}
+      transformModified: 1
+    - name: Astro__R.UpLeg
+      position: {x: .365999967, y: .124999963, z: -.0170000009}
+      rotation: {x: .659130335, y: -.0232869852, z: -.0268117897, w: .751189768}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Astro__R.UpLeg_Roll_1
+      position: {x: -0, y: 0, z: .103163928}
+      rotation: {x: -6.22821883e-09, y: 1.02445474e-08, z: .00626446679, w: .99998039}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Astro__R.UpLeg_Roll_2
+      position: {x: -0, y: 0, z: .103163928}
+      rotation: {x: -3.44589353e-08, y: -7.4505806e-09, z: .00626451336, w: .99998045}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Astro__R.Leg
+      position: {x: -0, y: 0, z: .106290102}
+      rotation: {x: .20621717, y: .0536057502, z: -.00375978835, w: .977029622}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__R.Leg_Roll_1
+      position: {x: -0, y: 0, z: .36481154}
+      rotation: {x: -2.88418924e-08, y: 0, z: -.00791971013, w: .999968648}
+      scale: {x: 1, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__R.Foot
+      position: {x: -0, y: 0, z: .121603876}
+      rotation: {x: -.798665643, y: -.0147126289, z: -.0172207765, w: .601348758}
+      scale: {x: 1, y: .999999642, z: .999999702}
+      transformModified: 1
+    - name: Astro__R.Foot_Toes
+      position: {x: -0, y: -.000999990152, z: .324000001}
+      rotation: {x: -.0356031358, y: 5.28711297e-10, z: 8.58949392e-08, w: .999366045}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Astro__R.Foot_Tip
+      position: {x: -5.55111512e-17, y: -2.77555756e-17, z: .112820663}
+      rotation: {x: .0132082757, y: .00513168005, z: .00153574056, w: .999898434}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Astro__L.UpLeg
+      position: {x: -.466000021, y: .124999963, z: -.0170000009}
+      rotation: {x: .659130514, y: .0232870337, z: .0268117152, w: .751189649}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Astro__L.UpLeg_Roll_1
+      position: {x: -0, y: 0, z: .103163928}
+      rotation: {x: 2.31084378e-08, y: 6.51925713e-09, z: -.00626445282, w: .99998039}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Astro__L.UpLeg_Roll_2
+      position: {x: -0, y: 0, z: .103163928}
+      rotation: {x: 2.32248567e-08, y: 1.86264515e-09, z: -.00626445748, w: .99998045}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Astro__L.Leg
+      position: {x: -0, y: 0, z: .106290102}
+      rotation: {x: .206216961, y: -.0536057539, z: .00375977112, w: .977029622}
+      scale: {x: 1.00000012, y: .999999523, z: .999999762}
+      transformModified: 1
+    - name: Astro__L.Leg_Roll_1
+      position: {x: -0, y: 0, z: .36481154}
+      rotation: {x: -8.7718945e-08, y: -6.51925802e-09, z: .00791973621, w: .999968708}
+      scale: {x: .999999881, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: Astro__L.Foot
+      position: {x: -0, y: 0, z: .121603876}
+      rotation: {x: -.798665702, y: .0147125646, z: .0172207486, w: .601348579}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: Astro__L.Foot_Toes
+      position: {x: -0, y: -.000999990152, z: .324000001}
+      rotation: {x: -.0356029831, y: 2.71129275e-09, z: 8.76107151e-08, w: .999366045}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Astro__L.Foot_Tip
+      position: {x: -0, y: 6.9388939e-18, z: .112820663}
+      rotation: {x: .0132082757, y: .00513168005, z: .00153574056, w: .999898434}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
